@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Accueil - Gestion de Bibliothèque";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenue dans la Gestion de Bibliothèque</h1>
+    <p class="lead">Système de gestion pour une petite bibliothèque</p>
+    <hr />
+    <div class="row mt-5">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Gestion des Livres</h5>
+                    <p class="card-text">Consultez, ajoutez, modifiez et supprimez des livres dans votre bibliothèque.</p>
+                    <a asp-controller="Books" asp-action="Index" class="btn btn-primary">Gérer les Livres</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Gestion des Membres</h5>
+                    <p class="card-text">Consultez, ajoutez, modifiez et supprimez des membres de la bibliothèque.</p>
+                    <a asp-controller="Members" asp-action="Index" class="btn btn-primary">Gérer les Membres</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
