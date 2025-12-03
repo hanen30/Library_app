@@ -1,0 +1,8 @@
+@page
+@model LibraryApp.Areas.Identity.Pages.Account.LogoutModel
+@{
+}
+
+<form method="post" asp-page-handler="Logout" class="d-none">
+    @Html.AntiForgeryToken()
+</form>

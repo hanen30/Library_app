@@ -19,6 +19,10 @@ namespace LibraryApp.Models
         [StringLength(100, ErrorMessage = "L'email ne peut pas dépasser 100 caractères")]
         public string Email { get; set; } = string.Empty;
 
+        // Link to ASP.NET Identity user (optional, stores IdentityUser.Id)
+        [StringLength(450)]
+        public string? IdentityUserId { get; set; }
+
         // Navigation property pour les emprunts
         public ICollection<Loan> Loans { get; set; } = new List<Loan>();
     }
