@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: bookservice-service
+  labels:
+    app: bookservice
+spec:
+  selector:
+    app: bookservice
+  ports:
+  - port: 8081
+    targetPort: 8081
+  type: ClusterIP  # Service interne pour la communication entre pods

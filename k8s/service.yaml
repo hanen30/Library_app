@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: libraryapp-service
+  labels:
+    app: libraryapp
+spec:
+  selector:
+    app: libraryapp
+  ports:
+  - port: 80        # Port externe accessible
+    targetPort: 8080  # Port du conteneur
+  type: LoadBalancer  # Pour accéder depuis l'extérieur de Kubernetes

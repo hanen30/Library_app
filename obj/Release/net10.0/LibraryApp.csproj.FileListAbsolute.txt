@@ -1,0 +1,11 @@
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\rpswa.dswa.cache.json
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.AssemblyInfo.cs
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.RazorAssemblyInfo.cache
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.RazorAssemblyInfo.cs
+C:\Users\tekay\Downloads\Project\TEST_Entity\LibraryApp\obj\Release\net10.0\LibraryApp.sourcelink.json
